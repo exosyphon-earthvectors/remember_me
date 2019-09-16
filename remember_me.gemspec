@@ -28,5 +28,4 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'awesome_print'
 
   spec.add_dependency 'rails', '>= 3.2'
-  spec.add_dependency 'mongoid', '>= 3'
 end
